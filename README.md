@@ -1,6 +1,6 @@
 # Git Quiz
 
-
+answered by Abdimalik Hussein
 
 ---
 
@@ -30,6 +30,6 @@ Answer: using a  "gitAdd"
 <!-- Write your answer here -->
 
 7. What does origin stand for when pushing you code?
-answer: it Updates the Remote repository  and  pushing to the changes to remote repository
+answer: it Updates the Remote repository  and  pushing to the changes made by the  local branch pushed   to remote repository
 
 <!-- Write your answer here -->
